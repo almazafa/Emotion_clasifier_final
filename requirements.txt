@@ -1,0 +1,20 @@
+ transformers torch  transformers
+transformers torch sklearn
+ pandas
+ transformers==2.8.0
+langchain langchain-groq
+python-telegram-bot
+langchain
+--upgrade replicate
+ Image
+ transformers 
+  telebot
+  SpeechRecognition 
+ lightning
+  telethon
+  pydub
+  deepface
+  --upgrade Pillow
+  fer
+ pydub
+  audiosegment
